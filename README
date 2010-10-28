@@ -1,0 +1,18 @@
+A brief description of each project
+
+c/algos: Implementations of Prym's and Floyd's algorithms
+c/gtk: Assignment involving GTK
+c/leqs: Linear equation solver
+c/lib: Self written libraries used in various projects
+c/list: Simple linked list implementation
+c/sockettalk: Connects with sockets to create a chat
+c/termcaps: Assignment involving termcaps
+
+java/maxheap: Maxheap implementation
+java/ticketmistress: Final project involving multiple algorithms and data structures
+
+js: Various Javascript+jQuery excerpt files from different web projects
+
+php: Various PHP excerpt files from different web projects
+
+scheme/Linterpreter: Final project; full interpreter for a custom language "L"
